@@ -1,0 +1,437 @@
+{
+  "singletons": {
+    "hero": {
+      "fullName": "Daniel McConn",
+      "headline": "Senior Full Stack Software Engineer",
+      "subheadline": "Senior Full Stack Engineer with 8 years of experience building SaaS applications, REST APIs, and data-driven platforms using C#/.NET, Java, TypeScript, React, Node.js, and SQL. Recent focus on AI-powered feature development and agent-driven workflow automation.",
+      "heroImageUrl": "/avatar.png",
+      "ctaPrimaryLabel": "View Portfolio",
+      "ctaPrimaryHref": "/portfolio",
+      "ctaSecondaryLabel": "Download Resume",
+      "ctaSecondaryHref": "/resume"
+    },
+    "about": {
+      "fullName": "Daniel McConn",
+      "tagline": "Senior Full Stack Engineer | C#/.NET, Java, TypeScript, React, Node.js, SQL, AWS",
+      "title": "About Me",
+      "bio": "Senior Full Stack Software Engineer with 8 years of experience developing and maintaining SaaS applications, backend services, REST APIs, and data-driven platforms. Skilled in C#/.NET, Java, JavaScript/TypeScript, React, Angular, Node.js, and SQL, with experience in cloud environments, microservices, and distributed systems. Recent experience includes AI-powered product feature development, AI agent workflows, business process automation, and AI-assisted software development. Effective in collaborating with cross-functional teams to translate business requirements into reliable, maintainable software solutions.",
+      "profileImageUrl": "/avatar.png",
+      "currentRole": "Senior Full Stack Software Engineer",
+      "researchInterest": "AI-Powered Features, Full Stack Development, Cloud Infrastructure, Microservices, Database Optimization",
+      "highlights": [
+        "8 years building SaaS applications, backend services, REST APIs, and data-driven platforms",
+        "Skilled in C#/.NET, Java, TypeScript, React, Angular, Node.js, and SQL",
+        "Experience in cloud environments, microservices, and distributed systems",
+        "Recent focus on AI-powered feature development and AI agent workflow automation",
+        "Effective collaborator across cross-functional Agile engineering teams"
+      ]
+    },
+    "contact": {
+      "pageIntroText": "Feel free to connect with me for collaboration, development opportunities, or consulting projects.",
+      "hireMeLabel": "Hire Me",
+      "contactInfo": {
+        "email": "daniel731mcconn@gmail.com",
+        "phone": "404-555-0144",
+        "location": "Dublin, Ireland"
+      },
+      "socialLinks": [
+        { "url": "https://github.com/danielmcconn", "platform": "github", "iconKey": "github" },
+        { "url": "https://www.linkedin.com/in/daniel-mcconn-2890ba442", "platform": "linkedin", "iconKey": "linkedin" },
+        { "url": "mailto:daniel731mcconn@gmail.com", "platform": "email", "iconKey": "mail" }
+      ]
+    },
+    "resumeSettings": {
+      "activeResumeId": "resume-1"
+    }
+  },
+  "collections": {
+    "resumes": [
+      {
+        "id": "resume-1",
+        "status": "active",
+        "title": "Daniel McConn - Senior Full Stack Software Engineer",
+        "fileUrl": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+        "uploadedAt": "2026-10-01"
+      }
+    ],
+    "education": [
+      {
+        "id": "edu-1",
+        "status": "published",
+        "orderIndex": 1,
+        "institution": "University of Limerick",
+        "degree": "Master of Science",
+        "field": "Software Engineering",
+        "grade": "",
+        "activities": "",
+        "description": "",
+        "startDate": "2017-09-01",
+        "endDate": "2018-05-01"
+      },
+      {
+        "id": "edu-2",
+        "status": "published",
+        "orderIndex": 2,
+        "institution": "University of Limerick",
+        "degree": "Bachelor of Science",
+        "field": "Computer Systems",
+        "grade": "",
+        "activities": "",
+        "description": "",
+        "startDate": "2013-09-01",
+        "endDate": "2017-06-01"
+      }
+    ],
+    "skills": [
+      { "id": "skill-1", "status": "published", "orderIndex": 1, "name": "C#", "level": 5 },
+      { "id": "skill-2", "status": "published", "orderIndex": 2, "name": "Java", "level": 5 },
+      { "id": "skill-3", "status": "published", "orderIndex": 3, "name": "TypeScript", "level": 5 },
+      { "id": "skill-4", "status": "published", "orderIndex": 4, "name": "Python", "level": 4 },
+      { "id": "skill-5", "status": "published", "orderIndex": 5, "name": "SQL", "level": 5 },
+      { "id": "skill-6", "status": "published", "orderIndex": 6, "name": "HTML5", "level": 5 },
+      { "id": "skill-7", "status": "published", "orderIndex": 7, "name": "CSS3", "level": 5 },
+      { "id": "skill-8", "status": "published", "orderIndex": 8, "name": "React", "level": 5 },
+      { "id": "skill-9", "status": "published", "orderIndex": 9, "name": "Angular", "level": 5 },
+      { "id": "skill-10", "status": "published", "orderIndex": 10, "name": "Node.js", "level": 5 },
+      { "id": "skill-11", "status": "published", "orderIndex": 11, "name": ".NET / ASP.NET Core", "level": 5 },
+      { "id": "skill-12", "status": "published", "orderIndex": 12, "name": "Spring Boot", "level": 5 },
+      { "id": "skill-13", "status": "published", "orderIndex": 13, "name": "REST APIs", "level": 5 },
+      { "id": "skill-14", "status": "published", "orderIndex": 14, "name": "Microservices", "level": 5 },
+      { "id": "skill-15", "status": "published", "orderIndex": 15, "name": "Event-Driven Architecture", "level": 4 },
+      { "id": "skill-16", "status": "published", "orderIndex": 16, "name": "PostgreSQL", "level": 5 },
+      { "id": "skill-17", "status": "published", "orderIndex": 17, "name": "SQL Server", "level": 5 },
+      { "id": "skill-18", "status": "published", "orderIndex": 18, "name": "MySQL", "level": 5 },
+      { "id": "skill-19", "status": "published", "orderIndex": 19, "name": "MongoDB", "level": 5 },
+      { "id": "skill-20", "status": "published", "orderIndex": 20, "name": "Redis", "level": 4 },
+      { "id": "skill-21", "status": "published", "orderIndex": 21, "name": "AWS", "level": 4 },
+      { "id": "skill-22", "status": "published", "orderIndex": 22, "name": "Azure", "level": 4 },
+      { "id": "skill-23", "status": "published", "orderIndex": 23, "name": "Docker", "level": 5 },
+      { "id": "skill-24", "status": "published", "orderIndex": 24, "name": "Kubernetes", "level": 4 },
+      { "id": "skill-25", "status": "published", "orderIndex": 25, "name": "CI/CD", "level": 5 },
+      { "id": "skill-26", "status": "published", "orderIndex": 26, "name": "Git", "level": 5 },
+      { "id": "skill-27", "status": "published", "orderIndex": 27, "name": "Linux", "level": 5 },
+      { "id": "skill-28", "status": "published", "orderIndex": 28, "name": "Unit Testing", "level": 5 },
+      { "id": "skill-29", "status": "published", "orderIndex": 29, "name": "Integration Testing", "level": 5 },
+      { "id": "skill-30", "status": "published", "orderIndex": 30, "name": "TDD", "level": 4 },
+      { "id": "skill-31", "status": "published", "orderIndex": 31, "name": "AI Agent Workflows", "level": 4 },
+      { "id": "skill-32", "status": "published", "orderIndex": 32, "name": "AI-Assisted Development", "level": 5 }
+    ],
+    "services": [
+      {
+        "id": "service-1",
+        "status": "published",
+        "orderIndex": 1,
+        "title": "Full-Stack Web Application Development",
+        "summary": "Building scalable SaaS applications and web platforms using C#/.NET, Java Spring Boot, React, Angular, Node.js, and TypeScript with clean architecture and maintainable code."
+      },
+      {
+        "id": "service-2",
+        "status": "published",
+        "orderIndex": 2,
+        "title": "Backend Services & REST API Development",
+        "summary": "Designing and implementing backend services, RESTful APIs, and microservices architectures with focus on performance, reliability, and seamless external system integration."
+      },
+      {
+        "id": "service-3",
+        "status": "published",
+        "orderIndex": 3,
+        "title": "AI-Powered Feature Development",
+        "summary": "Delivering AI-powered product features, agent-driven workflows, and business process automation integrated into customer engagement and SaaS applications."
+      },
+      {
+        "id": "service-4",
+        "status": "published",
+        "orderIndex": 4,
+        "title": "Database Design & Optimization",
+        "summary": "PostgreSQL, SQL Server, MySQL, and MongoDB database design, query optimization, data modeling, and caching strategies to support high-performance applications."
+      }
+    ],
+    "projects": [
+      {
+        "id": "project-1",
+        "status": "published",
+        "orderIndex": 1,
+        "slug": "kindertales",
+        "title": "Kindertales - Childcare Management Software",
+        "summary": "All-in-one childcare management software for preschools and daycare centers.",
+        "description": "Kindertales is a comprehensive childcare management platform designed for multi-location providers. Features include versatile online billing, powerful center management, streamlined parent communication, waitlist management, attendance tracking, milestones tracking, and integrated CRM. The platform helps childcare centers manage operations, communicate with families and staff, meet licensing requirements, and streamline daily tasks.",
+        "coverImageUrl": "/screenshots/kindertales.png",
+        "galleryImages": [],
+        "githubUrl": "",
+        "liveDemoUrl": "https://www.kindertales.com",
+        "techStack": ["React", "Node.js", "PostgreSQL", "REST APIs", "TypeScript"],
+        "featured": true
+      },
+      {
+        "id": "project-2",
+        "status": "published",
+        "orderIndex": 2,
+        "slug": "construkted",
+        "title": "Construkted - 3D Reality Capture Platform",
+        "summary": "Share, explore, and understand your 3D capture of reality.",
+        "description": "Construkted Reality is a platform for sharing, viewing, and exploring 3D captures of real-world locations. Users can upload 3D assets, browse captured locations, and collaborate on spatial data. The platform provides tools for 3D visualization, asset management, and exploration of architectural and real-world sites.",
+        "coverImageUrl": "/screenshots/construkted.png",
+        "galleryImages": [],
+        "githubUrl": "",
+        "liveDemoUrl": "https://construkted.com",
+        "techStack": ["React", "Three.js", "WebGL", "Python", "Cloud Storage"],
+        "featured": true
+      },
+      {
+        "id": "project-3",
+        "status": "published",
+        "orderIndex": 3,
+        "slug": "myaiwiz",
+        "title": "MyAIWiz - AI Tax Document Automation",
+        "summary": "Convert tax documents to returns in 60 seconds using AI.",
+        "description": "MyAIWiz is an AI-powered tax document automation platform designed for CPA firms. The system processes tax documents by extracting every field using AI, exports structured workpapers, and provides exception flags for missing data. Features include AI tax document organizer, IRS notice copilot, and audit-ready documentation. Built for high seasonal volume with optional licensed CPA review.",
+        "coverImageUrl": "/screenshots/myaiwiz.png",
+        "galleryImages": [],
+        "githubUrl": "",
+        "liveDemoUrl": "http://myaiwiz.com",
+        "techStack": ["Python", "AI/ML", "NLP", "React", "PostgreSQL"],
+        "featured": true
+      },
+      {
+        "id": "project-4",
+        "status": "published",
+        "orderIndex": 4,
+        "slug": "calmerceuticals",
+        "title": "Calmerceuticals - Premium Marine Collagen Supplements",
+        "summary": "Australian-made hydrolysed marine collagen supplements for skin health.",
+        "description": "Calmerceuticals is an e-commerce platform selling premium marine collagen supplements. The product line includes clinically proven formulations targeting skin health, perimenopause relief, and men's performance. Features include a quiz system, before/after photo reviews, and wholesale B2B login.",
+        "coverImageUrl": "/screenshots/calmerceuticals.png",
+        "galleryImages": [],
+        "githubUrl": "",
+        "liveDemoUrl": "https://calmerceuticals.com",
+        "techStack": ["Shopify", "Liquid", "JavaScript", "Payment Integration", "E-commerce"],
+        "featured": false
+      },
+      {
+        "id": "project-5",
+        "status": "published",
+        "orderIndex": 5,
+        "slug": "okani-travels",
+        "title": "Okani Travels - African Flight Booking Platform",
+        "summary": "Travel booking platform for flights, activities, and hotels across Africa.",
+        "description": "Okani Travels is a comprehensive travel booking platform focusing on African destinations. Features include flight booking for domestic, regional, and international routes, activity booking, secure payment processing, and trip management. The platform offers exclusive flight deals, multi-step booking process, and WhatsApp customer support.",
+        "coverImageUrl": "/screenshots/okanitravels.png",
+        "galleryImages": [],
+        "githubUrl": "",
+        "liveDemoUrl": "https://www.okanitravels.com",
+        "techStack": ["React", "Node.js", "Payment APIs", "Travel APIs", "MongoDB"],
+        "featured": false
+      },
+      {
+        "id": "project-6",
+        "status": "published",
+        "orderIndex": 6,
+        "slug": "shugic",
+        "title": "Shugic - Modern Web Application",
+        "summary": "React-based web application platform.",
+        "description": "Shugic is a modern web application built with React.js. The platform features a responsive design with custom typography and a single-page application architecture with optimized performance and modern UI/UX principles.",
+        "coverImageUrl": "/screenshots/shugic.png",
+        "galleryImages": [],
+        "githubUrl": "",
+        "liveDemoUrl": "https://shugic.com",
+        "techStack": ["React", "JavaScript", "CSS3", "HTML5", "Web Fonts"],
+        "featured": false
+      }
+    ],
+    "publications": [],
+    "experience": [
+      {
+        "id": "exp-1",
+        "status": "published",
+        "orderIndex": 1,
+        "company": "Customer.io",
+        "role": "Senior Full Stack AI Engineer (Contract)",
+        "startDate": "2024-06-01",
+        "endDate": "2026-08-01",
+        "description": "Reduced API response times by 30%, improving backend performance and application responsiveness. Delivered AI-powered product features and agent-driven workflows to support task automation within customer engagement and marketing automation applications. Implemented backend services and REST APIs to integrate application components with external systems and facilitate data exchange. Integrated frontend components with backend services to deliver end-to-end functionality across customer engagement workflows. Resolved production issues and refactored application code to improve system stability and code maintainability. Strengthened software quality through unit and integration testing, code reviews, and systematic code refinement. Used AI-assisted development tools to support implementation, debugging, and code refinement."
+      },
+      {
+        "id": "exp-2",
+        "status": "published",
+        "orderIndex": 2,
+        "company": "Seenons",
+        "role": "Senior Full Stack Developer (Hybrid)",
+        "startDate": "2023-02-01",
+        "endDate": "2024-05-01",
+        "description": "Reduced data processing time by 20%, improving the efficiency of operational data workflows. Developed C# and .NET backend services and REST APIs to support application functionality and external system integrations. Optimized data operations involving PostgreSQL and SQL Server to support the processing, storage, and retrieval of operational and business records. Improved application responsiveness and reliability through performance troubleshooting and code refactoring. Built maintainable frontend components using JavaScript and TypeScript to present operational data through application interfaces. Supported software quality through automated testing, code reviews, and systematic code maintenance. Collaborated with product and engineering teams to translate business requirements into functional application features."
+      },
+      {
+        "id": "exp-3",
+        "status": "published",
+        "orderIndex": 3,
+        "company": "Paddlle",
+        "role": "Full Stack Engineer (Remote)",
+        "startDate": "2020-08-01",
+        "endDate": "2022-11-01",
+        "description": "Improved deployment efficiency by 25%, strengthening software delivery processes. Integrated internal APIs and external services to streamline data exchange and automate backend business processes. Implemented backend services and RESTful APIs to support core application logic, data processing, and communication between system components. Contributed to asynchronous processing workflows and backend service architecture to support system scalability, reliability, and maintainability. Optimized data-processing operations and application code to improve responsiveness and system stability. Built responsive frontend interfaces using JavaScript and TypeScript to deliver end-to-end application functionality. Supported software quality through unit and integration testing, code reviews, and CI/CD pipelines."
+      },
+      {
+        "id": "exp-4",
+        "status": "published",
+        "orderIndex": 4,
+        "company": "Phorest",
+        "role": "Software Engineer (On-site)",
+        "startDate": "2018-06-01",
+        "endDate": "2020-07-01",
+        "description": "Reduced software defects by 30% through systematic troubleshooting and targeted code fixes, improving application stability. Developed reusable Angular and TypeScript components to support consistent, maintainable web application interfaces. Implemented MongoDB data operations to support reliable data storage, retrieval, and management. Delivered full-stack application features supporting business operations and customer management workflows. Improved code maintainability through code refactoring, automated testing, and code reviews. Collaborated with team members in an Agile development environment to deliver and maintain application features."
+      }
+    ],
+    "blogs": [],
+    "testimonials": [
+      {
+        "id": "testi-1",
+        "status": "published",
+        "orderIndex": 1,
+        "author": "Customer.io Engineering Manager",
+        "quote": "Daniel made a significant impact on our platform, delivering AI-powered features and agent-driven workflows that transformed our customer engagement automation. His ability to reduce API response times by 30% while maintaining code quality was impressive."
+      },
+      {
+        "id": "testi-2",
+        "status": "published",
+        "orderIndex": 2,
+        "author": "Seenons Technical Lead",
+        "quote": "Daniel's expertise in C#/.NET and PostgreSQL optimization cut our data processing time by 20%. He consistently translated complex business requirements into reliable, well-structured backend services."
+      }
+    ],
+    "techStackCategories": [
+      {
+        "id": "tech-cat-1",
+        "status": "published",
+        "orderIndex": 1,
+        "categoryName": "Languages",
+        "tools": [
+          { "id": "tool-1", "name": "C#", "logoUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg", "proficiencyLevel": 95 },
+          { "id": "tool-2", "name": "Java", "logoUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg", "proficiencyLevel": 95 },
+          { "id": "tool-3", "name": "TypeScript", "logoUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg", "proficiencyLevel": 95 },
+          { "id": "tool-4", "name": "Python", "logoUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg", "proficiencyLevel": 80 },
+          { "id": "tool-5", "name": "SQL", "logoUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg", "proficiencyLevel": 95 },
+          { "id": "tool-6", "name": "HTML5", "logoUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg", "proficiencyLevel": 95 },
+          { "id": "tool-7", "name": "CSS3", "logoUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg", "proficiencyLevel": 90 }
+        ]
+      },
+      {
+        "id": "tech-cat-2",
+        "status": "published",
+        "orderIndex": 2,
+        "categoryName": "Frontend Development",
+        "tools": [
+          { "id": "tool-8", "name": "React", "logoUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg", "proficiencyLevel": 95 },
+          { "id": "tool-9", "name": "Angular", "logoUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg", "proficiencyLevel": 90 },
+          { "id": "tool-10", "name": "Redux", "logoUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg", "proficiencyLevel": 85 },
+          { "id": "tool-11", "name": "Tailwind CSS", "logoUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg", "proficiencyLevel": 85 }
+        ]
+      },
+      {
+        "id": "tech-cat-3",
+        "status": "published",
+        "orderIndex": 3,
+        "categoryName": "Backend Development",
+        "tools": [
+          { "id": "tool-12", "name": ".NET / ASP.NET Core", "logoUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg", "proficiencyLevel": 95 },
+          { "id": "tool-13", "name": "Spring Boot", "logoUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg", "proficiencyLevel": 90 },
+          { "id": "tool-14", "name": "Node.js", "logoUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg", "proficiencyLevel": 90 },
+          { "id": "tool-15", "name": "REST APIs", "logoUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg", "proficiencyLevel": 95 },
+          { "id": "tool-16", "name": "Microservices", "logoUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg", "proficiencyLevel": 85 }
+        ]
+      },
+      {
+        "id": "tech-cat-4",
+        "status": "published",
+        "orderIndex": 4,
+        "categoryName": "Cloud & DevOps",
+        "tools": [
+          { "id": "tool-17", "name": "AWS", "logoUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg", "proficiencyLevel": 80 },
+          { "id": "tool-18", "name": "Azure", "logoUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg", "proficiencyLevel": 80 },
+          { "id": "tool-19", "name": "Docker", "logoUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg", "proficiencyLevel": 90 },
+          { "id": "tool-20", "name": "Kubernetes", "logoUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg", "proficiencyLevel": 80 },
+          { "id": "tool-21", "name": "CI/CD", "logoUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg", "proficiencyLevel": 90 },
+          { "id": "tool-22", "name": "Linux", "logoUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg", "proficiencyLevel": 90 }
+        ]
+      },
+      {
+        "id": "tech-cat-5",
+        "status": "published",
+        "orderIndex": 5,
+        "categoryName": "Databases",
+        "tools": [
+          { "id": "tool-23", "name": "PostgreSQL", "logoUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg", "proficiencyLevel": 95 },
+          { "id": "tool-24", "name": "SQL Server", "logoUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg", "proficiencyLevel": 90 },
+          { "id": "tool-25", "name": "MySQL", "logoUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg", "proficiencyLevel": 90 },
+          { "id": "tool-26", "name": "MongoDB", "logoUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg", "proficiencyLevel": 85 },
+          { "id": "tool-27", "name": "Redis", "logoUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg", "proficiencyLevel": 80 }
+        ]
+      },
+      {
+        "id": "tech-cat-6",
+        "status": "published",
+        "orderIndex": 6,
+        "categoryName": "Testing & Quality",
+        "tools": [
+          { "id": "tool-28", "name": "Unit Testing", "logoUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg", "proficiencyLevel": 95 },
+          { "id": "tool-29", "name": "Integration Testing", "logoUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg", "proficiencyLevel": 95 },
+          { "id": "tool-30", "name": "TDD", "logoUrl": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg", "proficiencyLevel": 80 }
+        ]
+      }
+    ],
+    "achievements": [
+      {
+        "id": "achievement-1",
+        "status": "published",
+        "orderIndex": 1,
+        "title": "API Performance Optimisation",
+        "issuer": "Customer.io",
+        "year": "2024-2026",
+        "description": "Reduced API response times by 30% through backend service refactoring and targeted performance improvements across customer engagement workflows.",
+        "externalLink": ""
+      },
+      {
+        "id": "achievement-2",
+        "status": "published",
+        "orderIndex": 2,
+        "title": "Data Processing Efficiency",
+        "issuer": "Seenons",
+        "year": "2023-2024",
+        "description": "Reduced data processing time by 20% by optimising PostgreSQL and SQL Server operations supporting operational and business data workflows.",
+        "externalLink": ""
+      },
+      {
+        "id": "achievement-3",
+        "status": "published",
+        "orderIndex": 3,
+        "title": "Deployment Efficiency Improvement",
+        "issuer": "Paddlle",
+        "year": "2020-2022",
+        "description": "Improved deployment efficiency by 25% by strengthening CI/CD pipelines and software delivery processes.",
+        "externalLink": ""
+      },
+      {
+        "id": "achievement-4",
+        "status": "published",
+        "orderIndex": 4,
+        "title": "Software Defect Reduction",
+        "issuer": "Phorest",
+        "year": "2018-2020",
+        "description": "Reduced software defects by 30% through systematic troubleshooting and targeted code fixes, improving application stability.",
+        "externalLink": ""
+      }
+    ],
+    "contactMessages": [
+      {
+        "id": "msg-1",
+        "name": "John Doe",
+        "email": "john@example.com",
+        "subject": "Inquiry",
+        "message": "Hello, I have a question.",
+        "status": "new",
+        "createdAt": "2026-01-01T00:00:00Z",
+        "handledBy": "",
+        "handledAt": ""
+      }
+    ]
+  }
+}
