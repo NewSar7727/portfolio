@@ -10,8 +10,8 @@ export function PublicationsPage() {
     .sort((a, b) => (a.orderIndex ?? 0) - (b.orderIndex ?? 0));
 
   useDocumentHead({
-    title: 'Publications & Research — Jessica Latoria Davis',
-    description: 'Technical publications, articles, and professional work by Jessica Latoria Davis in full stack development, cloud architecture, DevOps, and software engineering.',
+    title: 'Publications & Research — Daniel McConn',
+    description: 'Technical publications, articles, and professional work by Daniel McConn in full stack development, backend architecture, microservices, and software engineering.',
     path: '/publications',
   });
 

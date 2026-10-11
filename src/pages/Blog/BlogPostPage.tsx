@@ -16,7 +16,7 @@ export function BlogPostPage() {
 
   useDocumentHead({
     title: post?.title ?? 'Blog Post',
-    description: post?.excerpt ?? 'Read this article on jessicadavisportfolio.netlify.app.',
+    description: post?.excerpt ?? 'Read this article on danielmcconn.dev.',
     path: `/blog/${slug}`,
     image: post?.coverImageUrl,
     type: 'article',

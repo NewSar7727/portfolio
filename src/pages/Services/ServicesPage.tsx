@@ -10,8 +10,8 @@ export function ServicesPage() {
     .sort((a, b) => (a.orderIndex ?? 0) - (b.orderIndex ?? 0));
 
   useDocumentHead({
-    title: 'Web Development Services — Jessica Latoria Davis',
-    description: 'Professional web development services by Jessica Latoria Davis — full-stack development, mobile apps, cloud infrastructure, DevOps, API development, and custom software solutions.',
+    title: 'Web Development Services — Daniel McConn',
+    description: 'Professional software engineering services by Daniel McConn — full-stack development, backend services, REST APIs, AI-powered features, microservices, and database optimisation.',
     path: '/services',
   });
 

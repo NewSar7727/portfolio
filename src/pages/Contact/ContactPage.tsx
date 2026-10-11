@@ -14,8 +14,8 @@ export function ContactPage() {
   const socialLinks = Array.isArray(contact.socialLinks) ? contact.socialLinks : [];
 
   useDocumentHead({
-    title: 'Contact Jessica Latoria Davis — Get in Touch',
-    description: 'Contact Jessica Latoria Davis for full stack development projects, cloud infrastructure consulting, DevOps automation, mobile app development, or collaboration opportunities.',
+    title: 'Contact Daniel McConn — Get in Touch',
+    description: 'Contact Daniel McConn for full stack development projects, backend services, REST API development, AI-powered feature development, or collaboration opportunities.',
     path: '/contact',
   });
 
@@ -147,7 +147,7 @@ export function ContactPage() {
               <h2 className="text-lg font-bold text-white mb-4 group-hover:text-[#06B6D4] transition-colors">Follow Me</h2>
               <div className="flex flex-wrap gap-4">
                 <a
-                  href="https://github.com/JESSICADAVIS0920"
+                  href="https://github.com/danielmcconn"
                   target="_blank"
                   rel="noreferrer"
                   className="group p-3 rounded-xl bg-[#0B1320]/60 border border-white/10 hover:border-[#06B6D4]/50 hover:bg-[#06B6D4]/10 transition-all duration-300 hover:-translate-y-1"
@@ -155,7 +155,7 @@ export function ContactPage() {
                   <Github className="w-6 h-6 text-white/60 group-hover:text-[#06B6D4] transition-colors" />
                 </a>
                 <a
-                  href="https://www.linkedin.com/in/jessica-davis-a60b7042b/"
+                  href="https://www.linkedin.com/in/daniel-mcconn-2890ba442"
                   target="_blank"
                   rel="noreferrer"
                   className="group p-3 rounded-xl bg-[#0B1320]/60 border border-white/10 hover:border-[#06B6D4]/50 hover:bg-[#06B6D4]/10 transition-all duration-300 hover:-translate-y-1"
@@ -165,7 +165,7 @@ export function ContactPage() {
                   </svg>
                 </a>
                 <a
-                  href="mailto:snowlee922@gmail.com"
+                  href="mailto:daniel731mcconn@gmail.com"
                   className="group p-3 rounded-xl bg-[#0B1320]/60 border border-white/10 hover:border-[#06B6D4]/50 hover:bg-[#06B6D4]/10 transition-all duration-300 hover:-translate-y-1"
                 >
                   <Mail className="w-6 h-6 text-white/60 group-hover:text-[#06B6D4] transition-colors" />

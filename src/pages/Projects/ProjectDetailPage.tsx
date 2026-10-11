@@ -15,7 +15,7 @@ export function ProjectDetailPage() {
 
   useDocumentHead({
     title: project?.title ?? 'Project',
-    description: project?.summary ?? project?.description ?? 'Explore this project by Jessica Latoria Davis.',
+    description: project?.summary ?? project?.description ?? 'Explore this project by Daniel McConn.',
     path: `/projects/${slug}`,
     image: project?.coverImageUrl,
   });

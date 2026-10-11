@@ -6,8 +6,8 @@ export function PortfolioPage() {
   const { data } = useCms();
 
   useDocumentHead({
-    title: 'Portfolio — Projects | Jessica Latoria Davis',
-    description: 'Browse the portfolio of Jessica Latoria Davis — featured projects and case studies in full stack development, cloud infrastructure, and mobile applications.',
+    title: 'Portfolio — Projects | Daniel McConn',
+    description: 'Browse the portfolio of Daniel McConn — featured projects and case studies in full stack development, SaaS applications, REST APIs, and AI-powered features.',
     path: '/portfolio',
   });
 

@@ -15,8 +15,8 @@ export function BlogListPage() {
   const otherPosts = blogs.slice(1);
 
   useDocumentHead({
-    title: 'Blog — Articles & Tutorials | Jessica Latoria Davis',
-    description: 'Read articles, tutorials, and insights on full stack development, React, Node.js, TypeScript, AWS, DevOps, and modern software engineering by Jessica Latoria Davis.',
+    title: 'Blog — Articles & Tutorials | Daniel McConn',
+    description: 'Read articles, tutorials, and insights on full stack development, C#/.NET, Java, TypeScript, React, Node.js, microservices, and modern software engineering by Daniel McConn.',
     path: '/blog',
   });
 

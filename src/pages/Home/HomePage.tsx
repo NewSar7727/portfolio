@@ -114,7 +114,7 @@ export function HomePage() {
   }, [location.hash]);
 
   // SEO
-  const fullName = hero.fullName ?? about.fullName ?? 'Cheng Ai Jin';
+  const fullName = hero.fullName ?? about.fullName ?? 'Daniel McConn';
   const headline = hero.subheadline ?? 'Full-stack engineer focused on scalable web platforms.';
   useDocumentHead({
     title: `${fullName} — Full-Stack Developer & Portfolio`,
@@ -173,7 +173,7 @@ export function HomePage() {
             {/* Social Media Icons */}
             <div className="flex gap-4 pt-8 border-t border-white/10 animate-slide-up delay-500">
               <a
-                href="https://github.com/JESSICADAVIS0920"
+                href="https://github.com/danielmcconn"
                 target="_blank"
                 rel="noreferrer"
                 className="group p-3 rounded-xl bg-[#0b132000] border border-white/10 hover:border-[#06B6D4]/50 hover:bg-[#06B6D4]/10 transition-all duration-300 hover:-translate-y-1"
@@ -181,7 +181,7 @@ export function HomePage() {
                 <Github className="w-6 h-6 text-white/60 group-hover:text-[#06B6D4] transition-colors" />
               </a>
               <a
-                href="https://www.linkedin.com/in/jessica-davis-a60b7042b/"
+                href="https://www.linkedin.com/in/daniel-mcconn-2890ba442"
                 target="_blank"
                 rel="noreferrer"
                 className="group p-3 rounded-xl bg-[#0b132000] border border-white/10 hover:border-[#06B6D4]/50 hover:bg-[#06B6D4]/10 transition-all duration-300 hover:-translate-y-1"
@@ -191,7 +191,7 @@ export function HomePage() {
                 </svg>
               </a>
               <a
-                href="mailto:snowlee922@gmail.com"
+                href="mailto:daniel731mcconn@gmail.com"
                 className="group p-3 rounded-xl bg-[#0b132000] border border-white/10 hover:border-[#06B6D4]/50 hover:bg-[#06B6D4]/10 transition-all duration-300 hover:-translate-y-1"
               >
                 <Mail className="w-6 h-6 text-white/60 group-hover:text-[#06B6D4] transition-colors" />

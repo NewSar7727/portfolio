@@ -39,8 +39,8 @@ export function AboutPage() {
   const experience = published(data.collections.experience ?? []);
 
   useDocumentHead({
-    title: 'About Cheng Ai Jin — Skills, Experience & Education',
-    description: 'Learn about Cheng Ai Jin — a Full-Stack Software Engineer. Discover his skills, professional experience, and education background.',
+    title: 'About Daniel McConn — Skills, Experience & Education',
+    description: 'Learn about Daniel McConn — a Senior Full Stack Software Engineer with 8 years of experience in C#/.NET, Java, TypeScript, React, Node.js, and SQL. Discover his skills, professional experience, and education.',
     path: '/about',
   });
 

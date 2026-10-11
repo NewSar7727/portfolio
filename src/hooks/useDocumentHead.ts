@@ -1,7 +1,7 @@
 import { useEffect } from 'react';
 
-const SITE_NAME = 'Jessica Latoria Davis';
-const SITE_URL = 'https://jessicadavisportfolio.netlify.app';
+const SITE_NAME = 'Daniel McConn';
+const SITE_URL = '#';
 const DEFAULT_IMAGE = `${SITE_URL}/favicon.png`;
 
 interface DocumentHeadOptions {
