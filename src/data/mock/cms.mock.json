@@ -238,7 +238,20 @@
         "featured": false
       }
     ],
-    "publications": [],
+    "publications": [
+      {
+        "id": "pub-1",
+        "status": "draft",
+        "orderIndex": 1,
+        "title": "Designing Resilient Microservices with .NET and Event-Driven Architecture",
+        "authors": ["Daniel McConn"],
+        "publisher": "",
+        "publishedDate": "2026-10-01",
+        "doi": "",
+        "pdfUrl": "",
+        "externalUrl": ""
+      }
+    ],
     "experience": [
       {
         "id": "exp-1",
@@ -281,7 +294,22 @@
         "description": "Reduced software defects by 30% through systematic troubleshooting and targeted code fixes, improving application stability. Developed reusable Angular and TypeScript components to support consistent, maintainable web application interfaces. Implemented MongoDB data operations to support reliable data storage, retrieval, and management. Delivered full-stack application features supporting business operations and customer management workflows. Improved code maintainability through code refactoring, automated testing, and code reviews. Collaborated with team members in an Agile development environment to deliver and maintain application features."
       }
     ],
-    "blogs": [],
+    "blogs": [
+      {
+        "id": "blog-1",
+        "status": "draft",
+        "orderIndex": 1,
+        "title": "Building Scalable Microservices with .NET and Docker",
+        "slug": "building-scalable-microservices-dotnet-docker",
+        "excerpt": "Best practices for designing and deploying microservices architectures using ASP.NET Core, Docker, and Kubernetes for reliable, scalable SaaS applications.",
+        "content": "<p>Coming soon: Article on building scalable microservices with .NET and Docker.</p>",
+        "coverImageUrl": "https://placehold.co/800x400?text=Microservices+.NET",
+        "author": "Daniel McConn",
+        "publishedDate": "2026-10-01",
+        "readTime": 6,
+        "tags": ["Microservices", ".NET", "Docker", "Backend"]
+      }
+    ],
     "testimonials": [
       {
         "id": "testi-1",

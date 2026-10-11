@@ -6,11 +6,16 @@ export default defineConfig({
   build: {
     rollupOptions: {
       output: {
-        manualChunks: {
-          // Split vendor libraries into separate chunks
-          'vendor-react': ['react', 'react-dom', 'react-router-dom'],
-          'vendor-supabase': ['@supabase/supabase-js'],
-          'vendor-ui': ['lucide-react', 'zod'],
+        manualChunks: (id) => {
+          if (id.includes('react') || id.includes('react-dom') || id.includes('react-router-dom')) {
+            return 'vendor-react';
+          }
+          if (id.includes('@supabase')) {
+            return 'vendor-supabase';
+          }
+          if (id.includes('lucide-react') || id.includes('zod')) {
+            return 'vendor-ui';
+          }
         },
       },
     },
